@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="su">Sn</string>
+    <string name="mo">Mo</string>
+    <string name="tu">Tu</string>
+    <string name="we">We</string>
+    <string name="th">Th</string>
+    <string name="fr">Fr</string>
+    <string name="sa">Sa</string>
+    <string name="year">Enter the year</string>
+    <string name="month">Enter the Month</string>
+    <string name="show_calendar">Show calender</string>
+</resources>

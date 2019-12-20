@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تقويم</string>
+    <string name="su">أح</string>
+    <string name="mo">إث</string>
+    <string name="tu">ث</string>
+    <string name="we">أر</string>
+    <string name="th">خ</string>
+    <string name="fr">ج</string>
+    <string name="sa">س</string>
+    <string name="year">أدخل السنة</string>
+    <string name="month">أدخل الشهر</string>
+    <string name="show_calendar">اظهار التقويم</string>
+
+</resources>
